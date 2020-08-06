@@ -6,6 +6,8 @@
 🇨🇳 Nanjing China・frontend developer
 
 https://Tauleos.github.io
+
+<img src="https://github.com/Tauleos/Tauleos/blob/master/dino.gif" />
 <!--
 **Tauleos/Tauleos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
