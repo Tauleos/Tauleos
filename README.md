@@ -1,6 +1,7 @@
-### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tauleos&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tauleos&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" height="160" align="right" style=" margin-bottom: 20px;" />
+
+### Hi there 👋
 > Think more, write less.
 
 🇨🇳 Nanjing China・frontend developer
