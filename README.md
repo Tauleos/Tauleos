@@ -7,6 +7,9 @@
 
 https://Tauleos.github.io
 
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tauleos&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
 <img src="https://github.com/Tauleos/Tauleos/blob/master/dino.gif" />
 <!--
 **Tauleos/Tauleos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
